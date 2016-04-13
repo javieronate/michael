@@ -1,0 +1,279 @@
+@CHARSET "UTF-8";
+/* login */
+.textoError {
+	font-family: Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #CC0033;
+}
+.etiquetaLogin {
+	font-family: Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	background: #FFF center center;
+	font-weight: normal;
+}
+.inputLogin{
+	font-family: Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-size: 12px;
+	background-color: #fff;
+	color: #333;
+}
+.botonTexto {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 30px;
+	font-weight: bold;
+	font-variant: normal;
+	color: #981f32;
+}
+.botonTextoChico {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #981f32;
+}
+
+/*  cabeza */
+.tituloCabeza {
+	font-family: Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #333;
+}
+
+/* pie  */
+.textoPie {
+	font-family: Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333;
+	background: #FFF center center;
+	font-weight: normal;
+}
+
+/* bienvenida  */
+.botonTextoClaro {
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 30px;
+	font-weight: bold;
+	font-variant: normal;
+	color: #ccc;
+}
+
+/* menus  .botonTexto */
+
+/* valores  .botonTexto*/
+.encabezadoLista {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #fff;
+	background-position: center center;
+	font-weight: normal;
+	line-height: 20px;
+}
+.tituloListaNormal {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	background: #F0F4F9 center center;
+	font-weight: bold;
+	line-height: 20px;
+}
+.etiquetaNormal {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	background-position: center center;
+	font-weight: normal;
+}
+.inputNormal{
+	font-family: Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 18px;
+	font-variant: normal;
+	font-size: 12px;
+	background-color: #fff;
+	color: #333;
+}
+.inputNormalDerecha{
+	font-family: Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 18px;
+	font-variant: normal;
+	font-size: 12px;
+	background-color: #fff;
+	color: #333;
+	text-align: right;
+}
+/* usuarios lista
+	.encabezadoLista
+	.tituloListaNormal
+	.etiquetaNormal
+	.botonTexto
+*/
+
+/* usuarios ficha
+	.textoError
+	.encabezadoLista
+	.etiquetaNormal
+	.inputNormal
+	.botonTexto
+*/
+
+/* calculo datos
+	.textoError
+	.encabezadoLista
+	.etiquetaNormal
+	.inputNormal
+	.inputNormalDerecha
+	.botonTexto
+*/
+.inputMini{
+	font-family: Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 11px;
+	font-variant: normal;
+	font-size: 9px;
+	background-color: #fff;
+	color: #333;
+}
+.inputMiniColor{
+	font-family: Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 11px;
+	font-variant: normal;
+	font-size: 9px;
+	background-color: #f0f4f9;
+	color: #333;
+}
+.totalMini{
+	font-family: Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 11px;
+	font-variant: normal;
+	font-size: 9px;
+	background-color: #ff0;
+	color: #333;
+}
+.tituloListaMini {
+	font-family: Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	background: #C2DBFA center;
+	font-weight: bold;
+	line-height: 20px;
+}
+.pieTabla {
+	line-height: 5px;
+	background-color: #666;
+}
+.tituloListaOscuro {
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+	color: #333333;
+	background: #86C49F center center;
+	font-weight: bold;
+	line-height: 20px;
+}
+.pestanasResultados {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	background: #D8E7FA center center;
+	font-weight: bold;
+	line-height: 20px;
+}
+.pestanasResultadosSeleccionada{
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	background: #8FBFFB center center;
+	font-weight: bold;
+	line-height: 20px;
+}
+a {
+	font-family: Helvetica, sans-serif;
+	font-size: 10px;
+	color: #fff;
+	text-decoration: none;
+	border: none;
+	font-weight: normal;
+	font-style: normal;
+	line-height: normal;
+}
+select {
+	font-family: Helvetica, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 22px;
+	font-variant: normal;
+	font-size: 12px;
+	background-color: #FFFFFF;
+	color: #333;
+}
+basefont {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+
+
+input {
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 12px;
+	color: #f00;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 14px;
+	font-variant: normal;
+	text-align: left;
+	text-indent: 3pt;
+	outline: 0;
+	border: 1px solid #CCC;
+	border-left-width: 01px;
+}
+input.border {
+
+}
+option {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 22px;
+	color: #000;
+
+}
+button {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #CC6600;
+}
+textarea {
+	font-family: Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+}
